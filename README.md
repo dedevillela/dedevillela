@@ -21,9 +21,8 @@ Here are some ideas to get you started:
   [<img src="http://views.whatilearened.today/views/github/dedevillela/views.svg"/>](https://github.com/dedevillela/) 
   [<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>](https://github.com/dedevillela?tab=repositories)
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedevillela)](https://github.com/anuraghazra/github-readme-stats) 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedevillela)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedevillela&theme=vue&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedevillela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  🚀 Sobre mim 
 
