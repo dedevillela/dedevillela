@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 #  Olá para todxs!  👋
-#### Be free to contribute and share - Sintam-se a vontade para contribuir e interagir 🇧🇷
+
 
 <p>   
-  <!--img src="https://img.shields.io/badge/Mobile-React Native-f55247"/>
-  <img src="https://img.shields.io/badge/Front End-React-f55247"/>
-  <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/-->
+  <img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>
+  <img src="https://img.shields.io/badge/Front end-Javascript-f7df1f"/>
+  <!--img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/-->
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedevillela)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/dedevillela?color=twitter&label=%40dedevillela&logo=twitter&logoColor=white&style=flat)](https://twitter.com/dedevillela)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dedevillela/)
 [<img src="https://img.shields.io/github/followers/dedevillela?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dedevillela) 
+
+Feito com ❤️ em 🇧🇷
