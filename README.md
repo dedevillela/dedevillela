@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente integro a equipe de Comunicação como Web Designer na Feluma (Fundação Educacional Lucas Machado), e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
 
-- 💬 Interesses: ✈️ 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕
+- 💬 Interesses: ✈️ 📚 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕
 
 - 📫 E-mail: _dede.villela@gmail.com_.
 
