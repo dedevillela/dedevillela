@@ -14,20 +14,14 @@ Here are some ideas to get you started:
 -->
 
 #  Olá para todxs!  👋
-
-
-<p>   
-  <img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>
-  <img src="https://img.shields.io/badge/Front end-Javascript-f7df1f"/>
-  <!--img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/-->
+ 
+  [<img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>](https://github.com/dedevillela/) 
+  [<img src="https://img.shields.io/badge/Front end-Javascript-f7df1f"/>](https://github.com/dedevillela/) 
+  [<img src="https://img.shields.io/github/followers/dedevillela?color=%234CC61E&label=GitHub%20Followers%20%3A"/>](https://github.com/dedevillela/) 
+  [<img src="http://views.whatilearened.today/views/github/dedevillela/views.svg"/>](https://github.com/dedevillela/) 
+  [<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>](https://github.com/dedevillela?tab=repositories)
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedevillela)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <a href="https://github.com/dedevillela/">
-    <img src="https://img.shields.io/github/followers/dedevillela?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="http://views.whatilearened.today/views/github/dedevillela/views.svg"/> <a href="https://github.com/dedevillela?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-</p>
- 
 
 ##  Sobre mim 
 
