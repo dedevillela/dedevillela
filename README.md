@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 *UX/UI/Web Designer + WordPress Developer* 
 
-- ⚡ Experiência com Design Gráfico e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Siderurgia, Mineração, Transportes, Telecomunicações, Shopping Centers, Produtos de Consumo e Serviços.
+- ⚡ Experiência com Design Gráfico e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
 
 - 🔭 Atualmente integro a equipe de Comunicação como Web Designer na Feluma (Fundação Educacional Lucas Machado), e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
 
