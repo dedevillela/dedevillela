@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedevillela)](https://github.com/anuraghazra/github-readme-stats)
 
-##  Sobre mim 
+##  🚀 Sobre mim 
 
 *UX/UI/Web Designer + WordPress Developer* 
 
@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente integro a equipe de Comunicação como Web Designer na Feluma (Fundação Educacional Lucas Machado), e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
 
-- 📫 Email: _dede.villela@gmail.com_.
+- 💬 Interesses: ✈️ 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕
+
+- 📫 E-mail: _dede.villela@gmail.com_.
 
 [![Twitter](https://img.shields.io/twitter/follow/dedevillela?color=twitter&label=%40dedevillela&logo=twitter&logoColor=white&style=flat)](https://twitter.com/dedevillela)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dedevillela/)
