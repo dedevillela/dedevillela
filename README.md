@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  Olá para todxs!  👋
+#  👋 Olá para todxs!
  
   [<img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>](https://github.com/dedevillela/) 
   [<img src="https://img.shields.io/badge/Front end-Javascript-f7df1f"/>](https://github.com/dedevillela/) 
