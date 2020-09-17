@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dedevillela/)
 [<img src="https://img.shields.io/github/followers/dedevillela?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dedevillela) 
 
-Feito com ❤️ em 🇧🇷
+Feito com ❤️ em Beagá, 🇧🇷
