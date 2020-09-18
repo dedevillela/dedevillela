@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/dedevillela?color=twitter&label=%40dedevillela&logo=twitter&logoColor=white&style=flat)](https://twitter.com/dedevillela)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dedevillela/)
 [<img src="https://img.shields.io/github/followers/dedevillela?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dedevillela) 
+[![WordPress](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-DedeVillela-cc1414.svg)](https://profiles.wordpress.org/dedevillela/)
 
-Feito com ❤️ em Beagá, 🇧🇷
+*Made in Beagá,* 🇧🇷
