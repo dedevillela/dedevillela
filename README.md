@@ -1,7 +1,7 @@
 #  👋 Olá para todxs!
  
   [<img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>](https://github.com/dedevillela/) 
-  [<img src="https://img.shields.io/badge/Front end-Javascript-f7df1f"/>](https://github.com/dedevillela/) 
+  [<img src="https://img.shields.io/badge/Front end-Magento-FF7F26"/>](https://github.com/dedevillela/) 
   [<img src="https://img.shields.io/github/followers/dedevillela?color=%234CC61E&label=GitHub%20Followers%20%3A"/>](https://github.com/dedevillela/) 
   [<img src="http://views.whatilearened.today/views/github/dedevillela/views.svg"/>](https://github.com/dedevillela/) 
   [<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>](https://github.com/dedevillela?tab=repositories)
