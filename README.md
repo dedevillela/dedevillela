@@ -1,6 +1,6 @@
 #  👋 Olá para todxs!
  
-  [<img src="https://img.shields.io/badge/Back End-WordPress-20759b"/>](https://github.com/dedevillela/) 
+  [<img src="https://img.shields.io/badge/Full Stack-WordPress-20759b"/>](https://github.com/dedevillela/) 
   [<img src="https://img.shields.io/badge/Front end-Magento-FF7F26"/>](https://github.com/dedevillela/) 
   [<img src="https://img.shields.io/github/followers/dedevillela?color=%234CC61E&label=GitHub%20Followers%20%3A"/>](https://github.com/dedevillela/) 
   [<img src="http://views.whatilearened.today/views/github/dedevillela/views.svg"/>](https://github.com/dedevillela/) 
@@ -15,7 +15,7 @@
 
 - ⚡ Experiência com Design Gráfico e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
 
-- 🔭 Atualmente integro a equipe de Comunicação como Web Designer no CSC (Centro de Serviços Compartilhados) da Feluma (Fundação Educacional Lucas Machado), e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
+- 🔭 Atualmente integro a equipe de Desenvolvimento como Front-end na JN2 e-commerce expert, e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
 
 - 💬 Interesses: ✈️ 🚁 📚 💻 :octocat: 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕 ☕
 
