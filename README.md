@@ -11,7 +11,7 @@
 
 ##  🚀 Sobre mim 
 
-*UX/UI/Web Designer + WordPress Developer* 
+*UX/UI/Web Designer + WordPress Fullstack + Magento Front-end Developer* 
 
 - ⚡ Experiência com Design Gráfico e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
 
