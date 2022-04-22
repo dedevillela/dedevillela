@@ -13,9 +13,9 @@
 
 *UX/UI/Web Designer + WordPress Fullstack + Magento Front-end Developer* 
 
-- ⚡ Experiência com Design Gráfico e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
+- ⚡ Experiência com Design e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
 
-- 🔭 Atualmente integro a equipe de Desenvolvimento como Front-end na JN2 e-commerce expert, e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress e Javascript.
+- 🔭 Atualmente integro a equipe de Growth como Front-end Developer Magento 2 na Trezo Adobe Solution Partner, e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress.
 
 - 💬 Interesses: ✈️ 🚁 📚 💻 :octocat: 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕 ☕
 
