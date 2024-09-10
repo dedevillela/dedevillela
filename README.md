@@ -16,7 +16,7 @@
 
 - ⚡ Experiência com Design e Desenvolvimento Web desde 2000, atuando em vários projetos com clientes de praticamente todos os segmentos, como Educação, Siderurgia, Mineração, Transportes, Telecomunicações, Saúde, Shopping Centers, Produtos de Consumo e Serviços.
 
-- 🔭 Atualmente integro a equipe de desenvolvimento como Front-end Developer Magento 2 na Infobase, e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress.
+- 🔭 Atualmente integro a equipe de desenvolvimento como Magento Developer na MRM Brasil, e sou Diretor Criativo e proprietário da DedéVillela.com, com ênfase na criação de identidades visuais e sites e aplicativos web desenvolvidos com WordPress.
 
 - 💬 Interesses: ✈️ 🚁 📚 💻 :octocat: 📷 🎱 🏃 📺 ⚽ 🐓 🎧 🍕 ☕
 
