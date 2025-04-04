@@ -1,4 +1,4 @@
-#  👋 Olá para todxs!
+#  👋 Howdy!
  
   [<img src="https://img.shields.io/badge/Full Stack-WordPress-20759b"/>](https://github.com/dedevillela/) 
   [<img src="https://img.shields.io/badge/Front end-React-61DBFB"/>](https://github.com/dedevillela/) 
